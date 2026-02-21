@@ -1,0 +1,5 @@
+{
+  "name": "CollabSpace - User Management",
+  "description": "A real-time team collaboration system with secure user management, role-based access, and JWT authentication.",
+  "requestFramePermissions": []
+}
